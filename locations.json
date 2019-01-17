@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.951041,
+          50.739687
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "BEBC Bournemouth English Book Centre",
+        "hours": "8:30am-5pm",
+        "phone": "+441202712934",
+        "email": "elt@bebc.co.uk",
+        "website": "https://www.bebc.co.uk"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.129187,
+          52.197106
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cambridge International Book Centre",
+        "hours": "10am-5:30pm",
+        "phone": "+441223365400",
+        "email": "cibc@eflbooks.co.uk",
+        "website": "https://www.eflbooks.co.uk/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.134640,
+          50.821756
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "The English Language Bookshop",
+        "hours": "n/a",
+        "phone": "+441273604864",
+        "email": "sales@elb-brighton.com",
+        "website": "http://www.elb-brighton.com/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.129998,
+          51.514660
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Foyles",
+        "hours": "7am-9pm",
+        "phone": "+442074375660",
+        "email": "efl@foyles.co.uk",
+        "website": "https://www.foyles.co.uk/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.118940,
+          52.205696
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cambridge University Press Bookshop",
+        "hours": "9am-5:30pm",
+        "phone": "+441223330292",
+        "email": "bookshop@cambridge.org",
+        "website": "https://www.cambridge.org/about-us/visit-bookshop"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.435973,
+          55.378051
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon UK",
+        "hours": "24/7",
+        "phone": "+448002797234",
+        "email": "resolution-uk@amazon.co.uk",
+        "website": "https://www.amazon.co.uk/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.256695,
+          51.754230
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Blackwell Bookshop (Oxford)",
+        "hours": "9am-6:30pm",
+        "phone": "+441865792792",
+        "email": "oxford@blackwell.co.uk",
+        "website": "https://blackwells.co.uk/bookshop/home"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.129092,
+          51.514110
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Blackwell Bookshop (London)",
+        "hours": "9am-6:30pm",
+        "phone": "+442072925100",
+        "email": "orders.london@blackwell.co.uk",
+        "website": "https://blackwells.co.uk/bookshop/home"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.186161,
+          55.947729
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Blackwell Bookshop (Edinburgh)",
+        "hours": "9am-6:30pm",
+        "phone": "+441316228222",
+        "email": "edinburgh@blackwell.co.uk",
+        "website": "https://blackwells.co.uk/bookshop/home"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.132080,
+          51.522467
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Waterstones (London)",
+        "hours": "8:30am-9pm",
+        "phone": "+448432908351",
+        "email": "support@waterstones.com",
+        "website": "https://www.waterstones.com/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.137329,
+          51.508662
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Waterstones (London)",
+        "hours": "8:30am-9pm",
+        "phone": "+448432908549",
+        "email": "support@waterstones.com",
+        "website": "https://www.waterstones.com/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.247172,
+          53.481798
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Waterstones (Manchester)",
+        "hours": "10:30am-6pm",
+        "phone": "+448432908485",
+        "email": "support@waterstones.com",
+        "website": "https://www.waterstones.com/"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.435973,
+          55.378051
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Wordery.com",
+        "hours": "24/7",
+        "phone": null,
+        "email": "help@wordery.com",
+        "website": "https://wordery.com/"
+      }
+    }
+  ]
+}

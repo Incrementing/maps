@@ -1,0 +1,48 @@
+<head>
+  <title>Locations Example</title>
+  <style>
+    .map {height: 100%;}
+  </style>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"></link>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+
+<body>
+  <div class="row" style="height: 100%;">
+    <div class="col-sm-12 col-md-4" style="max-height:100%;overflow-y:auto;overflow-x:none;">
+      <div style="padding-left: 25px; padding-top: 5px; width: 100%;">
+        <h2>Filter Stores</h2>
+        <p><small>Stores &gt; <strong id="filter-name">All</strong></small></p>
+
+        <hr>
+
+        <label for="country">Country</label>
+        <select id="country">
+          <option value="all" selected>All</option>
+          <option value="uk">United Kingdom</option>
+          <option value="us">United States</option>
+        </select>
+
+        <label for="country">Contact Type</label>
+        <select id="country">
+          <option value="all" selected>All</option>
+        </select>
+
+        <hr>
+
+        <div id="filter-list">
+          <p>Finding stores...</p>
+        </div>
+
+        <div>
+          Your Location: <span id="location">...</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="map col-sm-12 col-md-8"></div>
+  </div>
+
+  <script src="app.js"></script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyChnZO1kOssJaMVKEEMF-E30Z0hf5JsXKY&callback=createMap"></script>
+</body>
